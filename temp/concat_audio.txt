@@ -1,0 +1,5 @@
+file 'G:/My Drive/Jason Explains — Episode 2 Code (as built 22 Nov 2026)/temp/segment_00.wav'
+file 'G:/My Drive/Jason Explains — Episode 2 Code (as built 22 Nov 2026)/assets/audio/silence025.wav'
+file 'G:/My Drive/Jason Explains — Episode 2 Code (as built 22 Nov 2026)/temp/segment_01.wav'
+file 'G:/My Drive/Jason Explains — Episode 2 Code (as built 22 Nov 2026)/assets/audio/silence025.wav'
+file 'G:/My Drive/Jason Explains — Episode 2 Code (as built 22 Nov 2026)/temp/segment_02.wav'
