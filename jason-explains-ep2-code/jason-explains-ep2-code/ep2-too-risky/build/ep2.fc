@@ -1,0 +1,12 @@
+[0:v]subtitles=/home/hatch/workspace/youtube-pipeline/jason-explains/ep2-too-risky/build/ep2.ass,format=yuv420p[vout];
+[1:a]aresample=48000[a0];
+[2:a]aresample=48000[a1];
+[3:a]aresample=48000[a2];
+[4:a]aresample=48000[a3];
+[5:a]aresample=48000[a4];
+[6:a]aresample=48000[a5];
+[7:a]aresample=48000[a6];
+[8:a]aresample=48000[a7];
+[9:a]aresample=48000[a8];
+[a0][a1][a2][a3][a4][a5][a6][a7][a8]concat=n=9:v=0:a=1[aconc];
+[aconc]loudnorm=I=-14:TP=-1.5:LRA=11[aout]
