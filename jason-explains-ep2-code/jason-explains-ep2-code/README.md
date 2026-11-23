@@ -1,4 +1,4 @@
-# Jason Explains — Animation Pipeline README
+# Jason Explains — Animation Pipeline README##
 
 **Date:** 22 November 2026
 **Status:** Proven — built all four videos of Series 1, all published on YouTube.
